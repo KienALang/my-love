@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/KienALang/my-love/static/css/main.eb519c2a.chunk.css",
-    "main.js": "/KienALang/my-love/static/js/main.2d9e94f3.chunk.js",
-    "main.js.map": "/KienALang/my-love/static/js/main.2d9e94f3.chunk.js.map",
-    "runtime-main.js": "/KienALang/my-love/static/js/runtime-main.c088e28f.js",
-    "runtime-main.js.map": "/KienALang/my-love/static/js/runtime-main.c088e28f.js.map",
-    "static/js/2.3eb0324a.chunk.js": "/KienALang/my-love/static/js/2.3eb0324a.chunk.js",
-    "static/js/2.3eb0324a.chunk.js.map": "/KienALang/my-love/static/js/2.3eb0324a.chunk.js.map",
-    "static/js/3.d1ce884d.chunk.js": "/KienALang/my-love/static/js/3.d1ce884d.chunk.js",
-    "static/js/3.d1ce884d.chunk.js.map": "/KienALang/my-love/static/js/3.d1ce884d.chunk.js.map",
-    "index.html": "/KienALang/my-love/index.html",
-    "static/css/main.eb519c2a.chunk.css.map": "/KienALang/my-love/static/css/main.eb519c2a.chunk.css.map",
-    "static/js/2.3eb0324a.chunk.js.LICENSE.txt": "/KienALang/my-love/static/js/2.3eb0324a.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/KienALang/my-love/static/media/Pacifico-Regular.93cd59ff.ttf"
+    "main.css": "/my-love/static/css/main.1364a0ee.chunk.css",
+    "main.js": "/my-love/static/js/main.2d9e94f3.chunk.js",
+    "main.js.map": "/my-love/static/js/main.2d9e94f3.chunk.js.map",
+    "runtime-main.js": "/my-love/static/js/runtime-main.3312b681.js",
+    "runtime-main.js.map": "/my-love/static/js/runtime-main.3312b681.js.map",
+    "static/js/2.3eb0324a.chunk.js": "/my-love/static/js/2.3eb0324a.chunk.js",
+    "static/js/2.3eb0324a.chunk.js.map": "/my-love/static/js/2.3eb0324a.chunk.js.map",
+    "static/js/3.d1ce884d.chunk.js": "/my-love/static/js/3.d1ce884d.chunk.js",
+    "static/js/3.d1ce884d.chunk.js.map": "/my-love/static/js/3.d1ce884d.chunk.js.map",
+    "index.html": "/my-love/index.html",
+    "static/css/main.1364a0ee.chunk.css.map": "/my-love/static/css/main.1364a0ee.chunk.css.map",
+    "static/js/2.3eb0324a.chunk.js.LICENSE.txt": "/my-love/static/js/2.3eb0324a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/my-love/static/media/Pacifico-Regular.93cd59ff.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.c088e28f.js",
+    "static/js/runtime-main.3312b681.js",
     "static/js/2.3eb0324a.chunk.js",
-    "static/css/main.eb519c2a.chunk.css",
+    "static/css/main.1364a0ee.chunk.css",
     "static/js/main.2d9e94f3.chunk.js"
   ]
 }
