@@ -1,22 +1,49 @@
-import logo from './logo.svg';
-import './App.css';
+import { faHeart } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { useState } from "react";
+import "./App.css";
+
+const heartClassNameIcon = "heart-icon";
+const heartColor = "#ff4081";
 
 function App() {
+  const [showGift, setShowGift] = useState(false);
+
+  const onHeartClick = () => {
+    setShowGift(!showGift);
+  };
+
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <FontAwesomeIcon
+          className={[
+            heartClassNameIcon,
+            showGift ? "heart-hidden" : "heart-explode",
+          ].join(" ")}
+          icon={faHeart}
+          color={heartColor}
+          size="8x"
+        />
+        <FontAwesomeIcon
+          className={[
+            heartClassNameIcon,
+            showGift ? "heart-hidden" : "heart-explode-small",
+          ].join(" ")}
+          icon={faHeart}
+          color={heartColor}
+          size="8x"
+        />
+        <FontAwesomeIcon
+          className={[heartClassNameIcon, showGift ? "open-gift" : ""].join(
+            " "
+          )}
+          icon={faHeart}
+          color={heartColor}
+          size="8x"
+          onClick={onHeartClick}
+        />
+        <p className="heart-title">{showGift ? "Gift" : "My Darling"}</p>
       </header>
     </div>
   );
