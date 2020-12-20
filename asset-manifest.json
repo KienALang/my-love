@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/my-love/static/css/main.1364a0ee.chunk.css",
-    "main.js": "/my-love/static/js/main.2d9e94f3.chunk.js",
-    "main.js.map": "/my-love/static/js/main.2d9e94f3.chunk.js.map",
+    "main.css": "/my-love/static/css/main.a76e5117.chunk.css",
+    "main.js": "/my-love/static/js/main.bef60ab6.chunk.js",
+    "main.js.map": "/my-love/static/js/main.bef60ab6.chunk.js.map",
     "runtime-main.js": "/my-love/static/js/runtime-main.3312b681.js",
     "runtime-main.js.map": "/my-love/static/js/runtime-main.3312b681.js.map",
     "static/js/2.3eb0324a.chunk.js": "/my-love/static/js/2.3eb0324a.chunk.js",
@@ -10,14 +10,13 @@
     "static/js/3.d1ce884d.chunk.js": "/my-love/static/js/3.d1ce884d.chunk.js",
     "static/js/3.d1ce884d.chunk.js.map": "/my-love/static/js/3.d1ce884d.chunk.js.map",
     "index.html": "/my-love/index.html",
-    "static/css/main.1364a0ee.chunk.css.map": "/my-love/static/css/main.1364a0ee.chunk.css.map",
-    "static/js/2.3eb0324a.chunk.js.LICENSE.txt": "/my-love/static/js/2.3eb0324a.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/my-love/static/media/Pacifico-Regular.93cd59ff.ttf"
+    "static/css/main.a76e5117.chunk.css.map": "/my-love/static/css/main.a76e5117.chunk.css.map",
+    "static/js/2.3eb0324a.chunk.js.LICENSE.txt": "/my-love/static/js/2.3eb0324a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3312b681.js",
     "static/js/2.3eb0324a.chunk.js",
-    "static/css/main.1364a0ee.chunk.css",
-    "static/js/main.2d9e94f3.chunk.js"
+    "static/css/main.a76e5117.chunk.css",
+    "static/js/main.bef60ab6.chunk.js"
   ]
 }
