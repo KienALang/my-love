@@ -1,0 +1,15 @@
+.partial__image {
+
+}
+
+.partial__image__container {
+    position: relative;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+.partial__image__part {
+    position: absolute;
+    top: 0;
+    left: 0;
+}

@@ -1,0 +1,9 @@
+.image__puzzle__container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.image__puzzle__bottom,
+.image__puzzle__top {
+    height: 10%;
+}

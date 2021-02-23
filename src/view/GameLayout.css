@@ -1,0 +1,47 @@
+.game__layout__container {
+    display: flex;
+    height: 100vh;
+}
+
+.game__layout__content,
+.game__layout__nav,
+.game__layout__side__bar {
+    justify-content: space-between;
+}
+
+.game__layout__content {
+    width: 60%;
+    order: 2;
+    margin: 0 10px;
+}
+
+.game__layout__nav,
+.game__layout__side__bar {
+    flex: 1;
+    margin: auto;
+    font-size: 16px;
+}
+
+.game__layout__nav {
+    order: 1;
+}
+
+.game_option {
+    border: 2px solid #d5d5d5;
+    background: linear-gradient(to left, rgb(202, 197, 49), rgb(243, 249, 167));
+}
+
+.game__layout__side__bar {
+    order: 3;
+}
+
+.square {
+    width: 80%;
+    border: 1px solid red;
+}
+
+.square:after {
+    content: "";
+    display: block;
+    padding-bottom: 100%;
+}
